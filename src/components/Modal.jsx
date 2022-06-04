@@ -62,8 +62,8 @@ export const Modal = ({
 
 	return (
 		<div className='modal'>
-			<div className='cerrar-modal'>
-				<img src={CloseIcon} alt='Cierra el modal' onClick={handleCloseModal} />
+			<div className='cerrar-modal' onClick={handleCloseModal}>
+				<img src={CloseIcon} alt='Cierra el modal' />
 			</div>
 
 			<form
