@@ -273,15 +273,6 @@ main {
 	text-align: center;
 	background-color: var(--gris-claro);
 }
-
-.listado-gastos-sombra {
-	box-shadow: 0px 9px 10px -10px rgba(0, 0, 0, 0.51);
-	-webkit-box-shadow: 0px 9px 10px -10px rgba(0, 0, 0, 0.51);
-	-moz-box-shadow: 0px 9px 10px -10px rgba(0, 0, 0, 0.51);
-	padding: 0 4rem 4rem 4rem;
-	border-radius: 1.2rem;
-}
-
 .listado-gastos {
 	margin-top: 5rem;
 }

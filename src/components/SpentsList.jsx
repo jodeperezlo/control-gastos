@@ -14,7 +14,7 @@ export const SpentsList = ({
 	deleteSpent,
 }) => {
 	return (
-		<div className='listado-gastos contenedor listado-gastos-sombra'>
+		<div className='listado-gastos contenedor'>
 			{filter ? (
 				<>
 					<h2>
