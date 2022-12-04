@@ -38,7 +38,7 @@ npm run build
 ## Run the application in production 🏗
 
 ```cmd
-npm run build
+npm run start
 ```
 
 ## App 📱💻
